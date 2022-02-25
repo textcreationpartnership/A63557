@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Trve narrative concerning the armies preservation of the Kings Majesties person by which it doth appeare that the army doth intend the good, life, property, and liberty of all the Commons of England, and not the destruction of them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63557</idno>
+            <idno type="STC">Wing T2768</idno>
+            <idno type="STC">ESTC R12566</idno>
+            <idno type="EEBO-CITATION">13801296</idno>
+            <idno type="OCLC">ocm 13801296</idno>
+            <idno type="VID">101940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Trve narrative concerning the armies preservation of the Kings Majesties person by which it doth appeare that the army doth intend the good, life, property, and liberty of all the Commons of England, and not the destruction of them.</title>
+               </titleStmt>
+               <extent>13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Benson and are to be sold in his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed by order from the army for the taking off those aspersions which hath been cast upon them for that action."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101940:1"/>
+            <pb facs="tcp:101940:1"/>
+            <p>A TRVE NARRATIVE CONCERNING THE AR<g ref="char:EOLhyphen"/>mies preſervation of the Kings Majeſties Perſon.</p>
+            <p>BY WHICH IT DOTH APPEARE that the Army doth intend the Good, Life, Propriety, and Liberty of all the Commons of <hi>England,</hi> and not the deſtruction of them.</p>
+            <p>
+               <hi>Printed by order from the Army, for the taking off thoſe aſpertions which hath been caſt upon them for that action.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>John Benſon,</hi> and are to be ſold at his ſhop in <hi>Chancery Laine,</hi> neare the Rowles, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narration">
+            <pb facs="tcp:101940:2"/>
+            <pb n="3" facs="tcp:101940:2"/>
+            <head>A true impartiall Narration, conceruing the Armies preſervation of the <hi>King;</hi> by which it doth appear, that the Army doth intend the Good, Life, Property, and Liberty, of all the Commons of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Ellow Commoners, conſidering with our ſelves how variouſly thoſe men will re<g ref="char:EOLhyphen"/>port, that endeavour to carrie on their de<g ref="char:EOLhyphen"/>ſigns, though it be to the ruine and the de<g ref="char:EOLhyphen"/>ſtruction of others, who are their Fellow-Commoners, and have as juſt a right and propriety to the liberties and freedomes of the Nation as themſelves &amp; conſidering alſo how miſinformation may ſe<g ref="char:EOLhyphen"/>duce you, and draw you away from the knowing of things in their true unmixt nature; and conſequently from acting and walking accordingly; ſo that not only our ſelves may be drawn by ſuch miſrepreſentations of things into unexpreſſi<g ref="char:EOLhyphen"/>ble extraordinary ſadneſſes, miſeries and calamities, but alſo you, into perpetuall irrecoverable ſervitude and bondage, even in a moment of time, before you, or we are aware of: And alſo conſidering that certain of the Houſe of Commons have ſold the record of <hi>Magna Charta,</hi> (which doth demonſtrate the Subjects rights, liberties and pro<g ref="char:EOLhyphen"/>prieties)
+<pb n="4" facs="tcp:101940:3"/>for 100000, l. ſo that it might never be uſed again, as we can (we hope) evidently prove; ſo that by it you may ſee their deſigne. Therefore, we (who have fought for you in the ſight of the Sun, and for your liberties and proprieties, as well as our owne; and have been faithfull to you in the ap<g ref="char:EOLhyphen"/>prehenſions of all rationall men, and thoſe that will not lie a<g ref="char:EOLhyphen"/>gainſt their own ſouls, or walk contrary to the Teſtimony of their own Conſciences) cannot chooſe but with reciprocall tenderneſſe preſent unto you truly, briefly, and clearly, with<g ref="char:EOLhyphen"/>out partiality the nature of the buſineſſe concerning the Kings Maieſty, and us at Holdenby, Iune the 4. 1647.</p>
+            <p>On Wedneſday, Coronet Ioyce, went to the bowling green where his Maieſtie was at bowls within a mile of Holdenby; the cauſe of the Coronets being there, was to prevent the Kings being conveyed away in a ſecret manner, which was iuſtly ſuſpected, to be done by ſome that were with his Ma<g ref="char:EOLhyphen"/>ieſty. Coronet Ioyce, an appointed agent by the Army, ob<g ref="char:EOLhyphen"/>ſerving a ſudden alteration in perſwading the King to goe to my Lord Spencers to bowls, when the King had reſolved be<g ref="char:EOLhyphen"/>fore to goe two miles further; and at the Kings taking horſe, Colonel Graves, and a Scottiſh Lord whiſpered, and were more then ordinary earneſt in their privacie, which did oc<g ref="char:EOLhyphen"/>caſion jealouſie at that opportunity: After the King had been at bowls one houre, Graves queſtioned a Soldier, and asked him from whence he came; The Soldiers anſwer was, from Oxford, and that he had been lately with the Army: Then Graves asked, if the Army was not contented with the Or<g ref="char:EOLhyphen"/>dinanee of Indempnitie, and the votes of Parliament? the Soldier anſwered, No, and that it would in no way ſecure them, and gave Graves a reaſon, becauſe many of their fel<g ref="char:EOLhyphen"/>low Soldiers, and thoſe that acted for the Parliament, were moleſted notwithſtanding it: &amp; what a ſad thing will it be to conſider, that the Soldery ſhall taſt of the Parliament Iudges cruelty notwithſtanding their good ſervices, and the pre<g ref="char:EOLhyphen"/>ſerving
+<pb n="5" facs="tcp:101940:3"/>of the heads of ſome men in the Parliam. And there<g ref="char:EOLhyphen"/>fore judge how much below the light of nature theſe men live, &amp; how much they exerciſe themſelves in tyranny, when they will not do good unto thoſe that do good unto them. Then Graves asked him more newes, and ſaid, he need not be afraid; But he ſaid, he was not afraid of him, or any man in the Kingdom, for he had done nothing that he knew of to make him afraid; &amp; he further ſaid, he would deal ingeniouſly with him, and tell him the truth in any thing he ſhould aske him. Then Graves asked, if he did not hear of a party of horſe, he anſwered, he did more then heart of a party, for he ſaw them the day before within thirty miles of Holdendy: this made Graves tremble as if he had been guilty of ſomething he had done or intended to do, otherwiſe why ſhould he afterwards, and the Scottiſh Lord his Confederate have run away, when no man intended to doe them the leaſt hurt in the world. But the Scotſh Lord went to <hi>London,</hi> &amp; hath notoriouſly wrong<g ref="char:EOLhyphen"/>ed the King, and the party alſo that did ſecure his Majeſties perſon for the peace and ſafety of the kingdom, as was de<g ref="char:EOLhyphen"/>clared at large before a thouſand witneſſes; ſo that by it you may ſee the deſign of a cunning Scot, &amp; what ſuch will do to get money end honour, even againſt King and people.</p>
+            <p>Further for the ſecurity of the Kings perſon, the party mar<g ref="char:EOLhyphen"/>ched towards Holdenby, and when they came to the Houſe the Commiſſioners ſent one Cap. <hi>Middleton</hi> to know of us what we came for, &amp; what we would have, &amp; who comman<g ref="char:EOLhyphen"/>ded? anſwer was made him, All did command, and yet were under command. Then Captain <hi>Middleton</hi> replyed, if you have any thing to doe here, the Commiſſioners would know what it is, and deſired that they would ſend into the Com<g ref="char:EOLhyphen"/>miſſioners; one or more, to certifie what was the intent of comming thither.</p>
+            <p>Whereupon Cor. <hi>Ioyce,</hi> by unanimous conſent of the party, went in to the Commiſſioners and told them the truth of
+<pb n="6" facs="tcp:101940:4"/>their comming thither, which was to ſecure his Maj. perſon, and to protect them, there being a ſecret deſign as they were informed, to to convey or ſteal away the King, &amp; to raiſe a<g ref="char:EOLhyphen"/>nother Army to ſuppreſſe this under his Excellency S. <hi>Tho. Fairfax:</hi> Likewiſe, he ſaid, he knew no other way to keep this Kingdom from blood, or another war, but by the preſent ſe<g ref="char:EOLhyphen"/>curity of the Kings perſon, &amp; that he may be no more miſled; and if he were, that the Kingdom were utterly undone for ever: If this be all ſaid the Commiſſioners, it is well done.</p>
+            <p>But after it, Coronet Ioyce ſpake more to the Commiſſio<g ref="char:EOLhyphen"/>ners, and told them, he did humbly conceive, that there were ſome who did delay juſtice, and ſeek only to disband the Ar<g ref="char:EOLhyphen"/>my, who were raiſed for the defence of the juſt rights, pro<g ref="char:EOLhyphen"/>prieties, and liberties of the Subject, and the bringing of all unjuſt men to condigne puniſhment; ſuch who did endeavour to ſubvert the fundamentall lawes of the Kingdom; and he ſaid, he did believe that there were ſome who did endeavour to pull down King and people, and to ſet up themſelves, and who they were the Commiſſioners and the world may judge and ſee by their actions.</p>
+            <p>Whereupon he tooke his leave of the Commiſſioners for a while leſt the King ſhould be diſturbed in his Bed-cham<g ref="char:EOLhyphen"/>ber. Then Major Gen. Brown went to the King, &amp; did aſſure his Majeſtie of the truth of the buſineſſe, and deſired his Ma<g ref="char:EOLhyphen"/>jeſtie not to be troubled, for no hurt would come unto him, for they were all civill Gentlemen, and that his Majeſtie ſhould find it ſo. After this was done, the Coronet went to the Commiſſioners again, and deſired them to give him Or<g ref="char:EOLhyphen"/>ders, he being willing to obey them, becauſe they were appointed by the Parliament to be there to that end: Then Maior Generall Browne ſaid, Come again by and by and we will give you Orders, in the meane time ſet your Guard, and place your Centinells, which directions of his we followed, &amp; told him and the reſt of the Commiſſioners
+<pb n="7" facs="tcp:101940:4"/>it they would give us orders I would obey them, provided they were juſt, and for the ſecurity of the Kings perſon. All this being done it grew towards noon: After that Coronet Ioyce deſired the ſoldiers to mount to horſe, and told them they ſhould all goe to quarters, at which word of command all was done, &amp; the ſaid Coronet was to give in a relation to the Commiſſioners of his comming, and the grounds in wri<g ref="char:EOLhyphen"/>ting, &amp; did; but becauſe of the multiplicity of buſineſs, could not give it in that form as otherwiſe he might if he had h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d time.</p>
+            <p>All this being done, al was quiet in the ſaid preſent ſecurity of his Majeſtie, untill tidings came that Graves was gone quite away, and thereupon it was ſuppoſed he was (and thought himſelfe alſo) guilty, or elſe he would have ſtayed; but none could tell what was become of him: and ſome of his damming blades did ſay and ſwear, they would fetch a party, which party could not be from the Army, but muſt be from ſome other place; and therefore to prevent diſturbance and blood, and for the peace ſake of the Kingdome, all de<g ref="char:EOLhyphen"/>clared unanimouſly, that they thought it moſt convenient to ſecure the King in another place, from ſuch perſons as ſhould cunningly or deſparately take him away contrary to order, which was endeavoured very earneſtly (as we are informed) by ſome that are enemies to the peace of the kingdome, and the proſperity of the Army. But another cauſe of jealouſie was, not knowing the reſolutions of thoſe who quartered ſoldiers, and pretended for Ireland.</p>
+            <p>And further to give all ſatisfaction to the whole kingdom, and to the real effecting of a buſineſs of ſuch concernment, the ſoldiers ſent Coronet Ioyce to the Commiſſioners at ten of the clock at night, who deſired the Commiſſi. to let the King know he would ſpeak with him; ſome of the Commiſ<g ref="char:EOLhyphen"/>ſioners being unwilling, held the Coronet in diſcourſe about halfe an houre, untill the King was aſleep in his bed; yet not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="8" facs="tcp:101940:5"/>the ſaid Coronet could not be contented till he had ſpoken with the King, it being the only way and meanes to prevent trouble for the future, and blood that might come upon the face of the Kingdome; and therefore the ſaid Cor. judged it in his own conſcience requiſite to ſpeak with him at that opportunity, and therefore he offered the Commiſſio<g ref="char:EOLhyphen"/>ners to go with them with as much gentleneſſe and tender<g ref="char:EOLhyphen"/>neſſe as he could, to tell his Majeſtie ſomething for his and the Kingdoms good; which was to take him from thence, ther being a ſecret deſign to ſteal and convey away his Majeſties perſon, to ſide with ſome who pretend juſtice and deceive the Kingdom, and obſtruct the relief of poor diſtreſſed <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> intending to break the Army in pieces now under the command of Sir <hi>Thomas Fairfax</hi> our Generall, and to raiſe another Army to carry on their deſign; and that all rationall men may ſee it by the actions of ſome men, (as <hi>Stapleton, Glinn, Green, Earle,</hi> and others) who ſaid, Its now come to that, that they muſt ſink us, or we muſt ſink them. Much more was ſpoken by the ſaid Coron. But this in brief: he was willing to let all paſſe without giving a relation, untill be heard that the Scottiſh Lord had falſely told the Parliament of our proceedings with the King, who ſaw or heard it not: for he was not within a mile of the Court when all theſe forementioned paſſages were; for the Scottiſh Lord as we are informed, reported, that the King was taken away againſt his will: For although the King told Coronet Ioyce be<g ref="char:EOLhyphen"/>fore the Commiſſioners, he was unwilling to goe with us; yet he ſaid, That ſuch reaſons might be produced that might prevaile with him, and then he did proteſt no<g ref="char:EOLhyphen"/>thing ſhould ſtay him but he would goe, whether the Com<g ref="char:EOLhyphen"/>miſſioners would yea, or no. And reaſons were given accor<g ref="char:EOLhyphen"/>dingly, which did prevail with his Majeſty to promiſe to go the next morning, and he gave a confirmation of his willing<g ref="char:EOLhyphen"/>neſſe, by ſaying to the Coronet, He ſhould be the more wil<g ref="char:EOLhyphen"/>ling
+<pb n="9" facs="tcp:101940:5"/>to go if the Coronet would promiſe him ſome things which he ſhould propound; The Coronet ſaid, He would, if they were juſt and warrantable in his underſtanding, and deſi<g ref="char:EOLhyphen"/>red his Majeſty that he might hear the things. Then his Maje<g ref="char:EOLhyphen"/>ſty ſpake before the Commiſſioners &amp; ſaid, Maſter Joyce, We have this to propound unto you. May it pleaſe your Majeſty we are willing to hear, ſaid Coronet Joyce; but are ſorry we have diſturbed you out of your ſleep: but the King ſaid, No matter, no matter, if you mean us no hurt: and then ſpake, viz. If you wil promiſe Us that We ſhal have no hurt; ſaying, You may take away Our life if you wil, having the ſword in your hands. This anſwer the Coronet made, That the Parliament had declared to preſerve his Majeſties perſon, and that they being the Parlia<g ref="char:EOLhyphen"/>ments Army, ſhould not but endeavour the ſame; onely they did deſire to ſecure him from being taken away, leſt he ſhould be ſet at the head of another Army, and ſo this Kingdome in<g ref="char:EOLhyphen"/>volved into danger. And all this was ſaid in anſwer to his Maje<g ref="char:EOLhyphen"/>ſties firſt Propoſition, The ſecond was, That he would not, be forced to any thing againſt his conſcience by us. He anſwered, that he would be unwilling to force any man againſt his conſci<g ref="char:EOLhyphen"/>ence, much leſſe his Majeſty; and alſo ſaid, That he hoped he was ſenſible of thoſe that did endeavour to force men againſt their conſciences,<note place="margin">Obſerve, none will oppoſe this Army, but guilty conſci<g ref="char:EOLhyphen"/>ences, and they will fly in our fac<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or raiſe an Army a<g ref="char:EOLhyphen"/>gainſt us.</note> and yet de<g ref="char:EOLhyphen"/>layed to do juſtice or ſettle the kingdome, for which they were ſent; and did endeavour to disband or break this Army in pieces, who ſought nothing but juſtice, as will appear here<g ref="char:EOLhyphen"/>after to all the world; Pray God it may, ſaid the King.</p>
+            <p>Thirdly, He demanded, whether yea or no he ſhould have his ſervants with him, and whether he ſhould be provided for like a man in his place, and that he had been courteouſly uſed by thoſe Commiſſioners that were with him, as ever he was by any. The Coronet anſwered, That he ſhould endeavour as farre as
+<pb n="8" facs="tcp:101940:6"/>in him lay, to ſhew him all juſt and due reſpect; And that he might be no otherwiſe attended on then before, the Coronet deſired the Commiſſioners of Parliament to go with the King and diſcharge that truſt impoſed on them; &amp; the ſoldiery of the Army would aſſiſt them ſo long as they were juſt and honeſt; Then ſaid the King, We wil willingly go along with you, if the ſouldiers wil confirm what you have promiſed me; the King beleeving we had ſaid nothing, but what we would ſtand to; All this being ſpoken at ten or eleven at night; And when the King had done propounding theſe queſtions to the Coronet, he gave his word to be ready by ſix the next morning, to hear if the ſouldiers would confirm what he had promiſed; and if they would, he would willingly go with us; for it was ſo bad an aire that he could never be ſo well as he had been, and if he were once gone he would be unwilling to come back again to that place any more; many other reaſons he had which he gave not. According to his promiſe he came in the morning at ſix of the clock; where he found all the ſoldiers ready mounted to march with him; but before he would march, he deſired to ſpeak the ſame things to the ſouldiers which he ſpake over night to the Coronet, to ſee if they would confirm what he ſaid and had promiſed; which they did with one conſent; and before the ſouldiers, the King was pleaſed to ask the Coronet, What Commiſſion he had to ſecure his Perſon? then ſaid the Coronet, If the Parliament had ever made an order, that the ar<g ref="char:EOLhyphen"/>my ſhould not have ſecured the Kings Perſon, we ſhould not have dared to do what we had done; But we being informed his Majeſty was to be conveyed away, which if not prevented might have cauſed another warre, and involved the whole king<g ref="char:EOLhyphen"/>dome in bloud again; this was the onely cauſe of our ſecuring the Kings Perſon; This anſwer did not ſatisfie the King, but he asked, What Commiſſion he had for doing that he did? he told his Majeſty, the ſoldiery of the Army, or elſe he ſhould not have
+<pb n="9" facs="tcp:101940:6"/>dared to have done what he had<g ref="char:punc">▪</g> and conceived it to be the only way to bring peace to England, and Juſtice with Mercy, which is the thing which all honeſt men do deſire, and none wil hin<g ref="char:EOLhyphen"/>der but ſome guilty Conſciences, who by their wil ſeek to deſtroy both King and people, to ſet up themſelves. Yet the King was not ſatisfied with this, but asked Whether we had nothing in writing from Sir Thomas Fairfax our General, to do what we did: the Coronet deſired the King he would not ask him ſuch Queſtions, for he did conceive he had ſufficiently anſwered him before, then ſaid the King, I pray M. Joyce deal ingenuouſ<g ref="char:EOLhyphen"/>ly with me, and tel me what Commiſſion you have. The Co<g ref="char:EOLhyphen"/>ronets anſwer was; Here, is my Commiſſion. Where, ſaid the King? He anſwered, Here; his Majeſty again asked, Where? He anſwered, Behind me, and deſired his Majeſty that that might ſatisfie him; whereupon the King ſmiled; and ſaid, It is as fair a Commiſſion, and as wel writen as he had ſeen a Com<g ref="char:EOLhyphen"/>miſſion written in his life. A company of handſome proper Gentle men as he had ſeen a great while. But what if we ſhould yet refuſe to go with you, I hope you would not force me? I am your King, and you ought not to lay violent hands on your King: for We do acknowledg none to be above Us here, but God: Then ſaid M. Joyce, Our deſires are not to force your Majeſty; but have humbly increated your Majeſty to go with us; and not only your ſelf, but the Commiſſioners: and to this end, that the Commiſſioners might diſcharge that truſt impoſed on them as honeſt members of Parliament. Thou ſpake one of the Com<g ref="char:EOLhyphen"/>miſſioners of Parliament and ſhewed us a paper, what was there<g ref="char:EOLhyphen"/>in we ſaw not; they all ſpake to us in order, the laſt that ſpake, as we remember, was Major General Brown; who ſaid the Commiſſioners had an order of Parliament to look to the King at Holdenby; and if he had ſtrength we ſhould have had his life before we ſhould have brought the King away; Indeed ſaid the Coronet, you ſpeak like a faithful and gallant man, but he
+<pb n="12" facs="tcp:101940:7"/>knew wel enough he had not ſtrength, and therefore he ſpake ſo boldly. Major G. Brown ſaid further, But ſince it is ſo, We muſt do what you wil have us, being not able to reſiſt you. Then ſpake Coronet Joyce further, We came not to have the blood of any man, but for peace; and did hope ſhould manifeſt it to all the world, for he ſought peace with all men as much as in him lieth; and further he ſaid, They were ſervants to the Parli<g ref="char:EOLhyphen"/>ament and Kingdome, and had ſerved them faithfully ever ſince the beginning of this war; or elſe more heads had been cut off before this time; and if the ſouldiers had been ordered, not to ſe<g ref="char:EOLhyphen"/>cure his Majeſty, they would not have dared to have done it, be<g ref="char:EOLhyphen"/>cauſe they were ſervants to the State as wel as the Commiſſio<g ref="char:EOLhyphen"/>ners; they did what they did to keep the Kingdom from blood and a ſecond war, which if not prevented, might unhappily have come upon us ſuddenly; as you may ſee is the endeavour of ſome men, who pretend to be the Kings, and Kingdoms beſt friends. After this, the King was going away, but turned and ſaid, Now Gentlemen, for the place you intend to have me to?</p>
+            <p>M. Joyce anſwered, If it pleaſe your Majeſty to Oxford.</p>
+            <p>The King replyed, That is no good aire.</p>
+            <p>M. Joyce ſaid, Then to Cambridg.</p>
+            <p>The King did not like that, but ſaid he liked New market. It was an aire that did very wel agree with him.</p>
+            <p>And it was granted by M. Joyce he ſhould go thither.</p>
+            <p>Then the King asked M. Joyce, How far he intended to ride that night<g ref="char:punc">▪</g>
+            </p>
+            <p>And M. Joyce anſwered and ſaid, As far as your Majeſty can conveniently ride.</p>
+            <p>The King ſmiling ſaid, We can ride as far as you, or any man there; but he concluded to talk of that, and his accommo<g ref="char:EOLhyphen"/>dation privately; and ſo he courteouſly took his leave of the company, and was going, and one whiſpered him, and he tur<g ref="char:EOLhyphen"/>ned
+<pb n="13" facs="tcp:101940:7"/>back, and heard the Commiſſioners ſpeak to the company thus in order: Firſt, my Lord Mountague ſpake, and ſaid: Gen<g ref="char:EOLhyphen"/>tlemen, we are intruſted by both Houſes (ſhewing in his hand a paper, the authority they had) and deſire to know whether all the party do agree to what M. Joyce had ſaid.</p>
+            <p>And they cryed, All, All.</p>
+            <p>And he having ſpoke low, Sir John Cook ſeconded him with a loud voyce, and added, That as the Parliament, had intruſted them, had he but Forces to withſtand the party, he would have done it with his life; and M. Crew ſaid the ſame.</p>
+            <p>And Major G. Brown ſpake laſt to the ſame purpoſe, but ad<g ref="char:EOLhyphen"/>ded ſomething more then the reſt; ſaying, It was not the firſt time that he had been in the head of a party, and that they knew not the Law; and he durſt affirm, that ſcarce two in the company, although they cryed, All, All, knew what the Gentle<g ref="char:EOLhyphen"/>man had delivered to the King. And therefore he ſaid with a loud voyce, All that are willing the King ſhall ſtay with us; the Commiſſioners of Parliament, let them ſpeak. And all the party cryed None, None, then ſaid he, we have done. Only the ſouldiers ſaid, We underſtand well enough what we do. Now let all the world judge what is done, and who is in fault, and who they are that ſeek warr, and no peace nor juſtice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:101940:8"/>
+            <head>One word more Fellow-Com<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers.</head>
+            <p>DEar Friends and Fellow-Commoners, We the Souldiery under his Excellency Sir Thomas Fairfax, do deſire to ſpeak one word to you All; that ſo you may ſee and know our very hearts ſo far as we know them our ſelves; And that our earneſt deſires are for Peace, in this our Native Land and King<g ref="char:EOLhyphen"/>dome, and being more ſenſible then many thouſands are; how deſtructive another War wil be, if not our utter ruine and un<g ref="char:EOLhyphen"/>doing, The words we ſhal ſpeak to you are to prevent Warr, and to find out thoſe that have of late ſent that Scottiſh Lord, who went from Holmby to London, and from thence into France, and another Scotch Lord into Scotland; all this to bring another Army to England: and we ſhall be able to make it ap<g ref="char:EOLhyphen"/>pear to you hereafter, who are the chief Actors therein. Dear Friends, and Fellow-Commoners, let us not be like thoſe who have ſet their hands to the Plough and look back; but let it ap<g ref="char:EOLhyphen"/>pear to all the World we are againſt another Warre, and for Peace, Mercy, and Juſtice, without delay. Now look about you and be not deluded any longer, leſt the Scot ſell the King for more money, and others oppreſſe the Kingdome, and put the Kingdoms Treaſure into their own pockets; or ſend it out of our Kingdome, as if they were preparing to go after, for fear they ſhould be found out. This we ſpeak that ſo you may have a care of this Glorious Kingdome; your Shipping being now in thoſe mens hands who have done you moſt wrong; and if not looked after by you, may ſuddenly let in a forrein Enemy to overrun you all, and raviſh your Wives, and roſt your Children alive, as thoſe bloudy minded men in Ireland have done; and this will be our caſe if you awake not ſuddenly. We have done, a word to the wiſe is ſufficient: and reſt</p>
+            <closer>
+               <signed>Yours and the Kingdomes faithful ſervants till death, for Englands Liberty, againſt Tiranny, &amp;c.</signed>
+            </closer>
+            <pb facs="tcp:101940:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
